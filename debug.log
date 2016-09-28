@@ -1,0 +1,4 @@
+[0406/182748:INFO:(0)] WebCore is now online.
+[0406/182748:INFO:(0)] Running Awesomium 1.7.4.2
+[0406/182750:WARNING:(0)] The specified name (external), is reserved. It either represents an HTML DOM object, or an object variable already available in the page. Use ExecuteJavascriptWithResult after DocumentReady, to obtain this object.
+参数名: name
