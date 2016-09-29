@@ -1,6 +1,6 @@
 Metro Style Web Dashboard By FreezeSoul
 
-It's just a Demo, The Code is not used is production.
+It's just a Demo, The code is not used to production.
 
 The Shell Mades With Awesomium
 
