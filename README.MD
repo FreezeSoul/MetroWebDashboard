@@ -1,4 +1,4 @@
-Metro Style Web Dashboard By FreezeSoul
+Metro Style Web Dashboard By FreezeSoul 2012-6-6
 
 It's just a Demo, The code is not used to production.
 
